@@ -1,3 +1,3 @@
 # TypeMaster-Pre-Launch
 
-Live Preview: https://masterprelaunch.netlify.app/
+Live Preview: [Master Pre Launch](https://masterprelaunch.netlify.app/)
